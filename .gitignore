@@ -1,0 +1,20 @@
+## Сборка .NET (бинарники и временные файлы)
+[Bb]in/
+[Oo]bj/
+TestResults/
+
+## Окружение JetBrains Rider и ReSharper
+.idea/
+*.sln.iml
+riderModule.iml
+_ReSharper.Caches/
+
+## Пользовательские настройки и кэши
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## Пакеты
+packages/
+*.nupkg
